@@ -42,7 +42,7 @@ Abaixo estão alguns dos projetos que demonstram minhas competências e paixão 
 Estou aberto a oportunidades de estágio e colaborações. Conecte-se comigo!
 
 *   **GitHub:** [ViniciusGrana](https://github.com/ViniciusGrana)
-*   **LinkedIn:** [Seu perfil do LinkedIn aqui] (Sugestão: Adicione o link do seu LinkedIn para facilitar o contato de recrutadores)
+*   **LinkedIn:** (https://br.linkedin.com/in/viniciusgrana)
 
 ---
 *“Sempre em busca de aprender novas tecnologias e enfrentar novos desafios no mundo do desenvolvimento.”*
