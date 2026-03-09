@@ -15,15 +15,6 @@ Minha jornada na tecnologia é marcada pela curiosidade e pela busca contínua p
 | **Dados & IoT** | MQTT, Web Scraping, Streamlit |
 | **Ferramentas** | Git, GitHub, Azure, VS Code |
 
-## 📂 Projetos em Destaque
-
-Abaixo estão alguns dos projetos que demonstram minhas competências e paixão por tecnologia:
-
-*   **[Event+ API](https://github.com/ViniciusGrana/API-eventplus):** Sistema completo de gestão de eventos institucionais utilizando .NET e arquitetura de repositórios.
-*   **[Projeto Integrador (IoT)](https://github.com/ViniciusGrana/ProjetoIntegrador):** Monitoramento de sensores em tempo real com protocolo MQTT e integração com banco de dados.
-*   **[DashBoard Raça](https://github.com/ViniciusGrana/DashBoard_raca):** Ferramenta de análise de dados caninos com Python, focada em visualização dinâmica.
-*   **[BookScrape](https://github.com/ViniciusGrana/BookScrape):** Automação para coleta sistemática de dados web para análise estratégica.
-
 ## 🎓 Formação Acadêmica
 
 *   **Sistemas de Informação** | FIAP (2026 - Dez/2029)
@@ -35,7 +26,7 @@ Abaixo estão alguns dos projetos que demonstram minhas competências e paixão 
 Estou aberto a oportunidades de estágio e colaborações. Conecte-se comigo!
 
 *   **GitHub:** [ViniciusGrana](https://github.com/ViniciusGrana)
-*   **LinkedIn:** (https://br.linkedin.com/in/viniciusgrana)
+*   **LinkedIn:** https://br.linkedin.com/in/viniciusgrana
 
 ---
 *“Sempre em busca de aprender novas tecnologias e enfrentar novos desafios no mundo do desenvolvimento.”*
