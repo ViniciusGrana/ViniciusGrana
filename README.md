@@ -31,3 +31,4 @@ Estou aberto a oportunidades de estágio e colaborações. Conecte-se comigo!
 ---
 *“Sempre em busca de aprender novas tecnologias e enfrentar novos desafios no mundo do desenvolvimento.”*
 
+ 
