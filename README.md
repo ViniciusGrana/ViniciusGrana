@@ -18,7 +18,7 @@ Minha jornada na tecnologia é marcada pela curiosidade e pela busca contínua p
 ## 🎓 Formação Acadêmica
 
 *   **Bacharel em Sistemas de Informação** | FIAP (2026 - Dez/2029)
-*   **Técnõlogo em Ciência de Dados** | SENAI de Informática de São Caetano do Sul (SENAI 1.34) - Concluído em Dez/2025
+*   **Técnólogo em Ciência de Dados** | SENAI de Informática de São Caetano do Sul (SENAI 1.34) - Concluído em Dez/2025
 *   **Técnico em Desenvolvimento de Sistemas** | SENAI de Informática de São Caetano do Sul (SENAI 1.34) - 2 semestres (2023)
 
 ## 📫 Contato
